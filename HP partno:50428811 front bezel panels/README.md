@@ -20,3 +20,5 @@ Feel free to use the files. Below are some  pictures of my results.
 
 ![inside front bezel](.img/front_inside.jpg)
 *Inside view of the front bezel, with the new panels installed*
+
+P.S. if for some reason you want to buy one of these front bezels, I found [this site](https://www.impactcomputers.com/bezels/hp-front-main-bezel-assembly-5042-8811) selling them
