@@ -12,7 +12,7 @@ Feel free to use the files. Below are some  pictures of my results.
 ![front view](.img/full_case.jpg)
 *The full case, with new panels installed*
 
-![large panle v.1](.img/large_panel_v1.jpg)
+![large panel v.1](.img/large_panel_v1.jpg)
 *An image of the first prototype panel (v.1)*
 
 ![front bezel](.img/front.jpg)
