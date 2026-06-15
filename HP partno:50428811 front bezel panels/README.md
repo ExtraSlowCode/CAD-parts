@@ -1,8 +1,9 @@
 # HP Pavillion front bezel panels
 
-I made these during December of 2025 to cover up holes in a PC case due to removing the CD readers/burners previously there. The PC case in question was a **HP Pavilion D4100Y tower case**, but only one panel of each kind was still with the case itself. So I measured up, designed a copy, and printed more of them at home on a *Creality Ender 3*. 
-pretty generic settings; 
-- support enabled, 
+I made these during December of 2025 to cover up holes in a PC case due to removing the CD readers/burners previously there. The PC case in question was a **HP Pavilion D4100Y tower case**, but only one panel of each kind was still with the case itself. So I measured up, designed a copy, and printed more of them at home on a *Creality Ender 3*.
+pretty generic settings;
+
+- support enabled,
 - 0.16mm layer height,
 - 20% infill (but the models are solid),
 - 60 degC print bed
